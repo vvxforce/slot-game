@@ -29,7 +29,6 @@ export default class PixiApp {
             ],
             cols: 5,
             rows: 12,
-            // чи правильно тут чи краще винести прям в класі ап як окрему змінну???
             isPlaying: false
         });
     }
